@@ -1,0 +1,32 @@
+privateMessages = [
+  {
+    "profilepic": "require('../assets/whitegirl_1.jpeg')",
+    "username": "_gand",
+    "message": "Hello dear,How are you doing",
+    "time": "2 min ago"
+  },
+  {
+    "profilepic": "require('../assets/whitegirl_2.jpeg')",
+    "username": "_alex",
+    "message": "Hey there! What's up?",
+    "time": "5 min ago"
+  },
+  {
+    "profilepic": "require('../assets/whitegirl_3.jpeg')",
+    "username": "_jane",
+    "message": "Good afternoon! How's your day going?",
+    "time": "10 min ago"
+  },
+  {
+    "profilepic": "require('../assets/whitegirl_4.jpeg')",
+    "username": "_mike",
+    "message": "Hi! Long time no see.",
+    "time": "15 min ago"
+  },
+  {
+    "profilepic": "require('../assets/whitegirl_5.jpeg')",
+    "username": "_sara",
+    "message": "Hello! How have you been?",
+    "time": "20 min ago"
+  }
+]
